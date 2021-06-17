@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Solution files
+tweet_location_solution.ipynb
+viral_tweets_solution.ipynb
+
+# data
+london.json
+new_york.json
+paris.json
+random_tweets.json
+
+# checkpoint
+.ipynb_checkpoints
